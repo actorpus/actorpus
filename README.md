@@ -1,3 +1,8 @@
-<a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
- </a>
+<style>
+img {
+    border-radius: 50%;
+}
+</style>
+<div id="header" align="center">
+    <img src="https://avatars.githubusercontent.com/u/47696241?v=4" width="100px">
+</div>
