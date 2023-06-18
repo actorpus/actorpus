@@ -3,8 +3,11 @@
     <h4>overconfident python developer</h4>
 </div>
 <br><br><br>
+
 ---------------------------------------------------------------
+
 # personal
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Alex <alex@actorpus.com>
@@ -26,7 +29,9 @@ lJ8Yq8pgtYw04+87Lzx5wMDDX5eEbIgP
 =L9Q2
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 # Code signing
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Alex <code-signing@actorpus.com>
